@@ -83,5 +83,14 @@ def tangent(x):
 def test_min():
     assert minimum(2, 3) == 2
     print("Test passed")
+
+
+#call  test_min function
+
+test_min()
+
+
+
+    
     
 
